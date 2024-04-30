@@ -1,4 +1,4 @@
 # Practice_git
 this is my first git repository
 <br>
-Author - Sharad Mohite
+Author - Sharad Mohite (Software Developer)
